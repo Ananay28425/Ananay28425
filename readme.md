@@ -2,7 +2,7 @@ This is my new GitHub account.
 For past work, please check out: https://github.com/Ananay8425
 
 # 💫 About Me:
--- Computer Science Student<br>-- Interests in Backend Development, Software Development, Artificial Intelligence, Machine Learning and Data Science <br>-- Worked as Contributor in GirlScript Summer of Code 2025<br>-- Upcoming Contributor in Social Winter of Code
+-- Computer Science Student<br>-- Interests in Backend Development, Software Development, Artificial Intelligence, Machine Learning and Data Science <br>-- Worked as Contributor in GirlScript Summer of Code 2025<br>
 
 
 ## 🌐 Socials:
